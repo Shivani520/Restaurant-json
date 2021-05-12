@@ -1,0 +1,30 @@
+{
+  "snacks": [
+    {
+      "id": 1,
+      "img":"https://curlytales.com/wp-content/uploads/2019/09/pizza-e1569475959190.jpg",
+      "title": "Pizza",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "img": "https://aseasyasapplepie.com/wp-content/uploads/2016/05/17-Amazing-Burger-Recipes-chorizo-burger.jpg",
+      "title": "Burger",
+      "price": 180
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "img": "https://foodnessgracious.com/wp-content/uploads/2017/04/frozen-prosecco-05-600x900.jpg",
+      "title": "Orange Juice",
+      "price": 250
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/564x/e1/30/11/e1301127b392599412113ac113baef82.jpg",
+      "title": "Pineapple Mojito",
+      "price": 400
+    }
+  ]
+}
